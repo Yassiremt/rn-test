@@ -9,12 +9,9 @@ To run the app, follow these steps:
 1. Install the required packages using either yarn or npm:
 
 ```bash
- yarn
-```
 
 or
 
-```bash
 npm Install
 ```
 
@@ -22,22 +19,18 @@ npm Install
 
 ```bash
  yarn start
-```
 
 or
 
-```bash
 npm run start
 ```
 
-3.Run the app on a connected device or simulator using the preferred platform-specific command:
+3. Run the app on a connected device or simulator using the preferred platform-specific command:
 
 ```bash
  Press a │ open Android
-```
 
 or
 
-```bash
 Press i │ open IOS
 ```
