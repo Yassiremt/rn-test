@@ -8,7 +8,7 @@ export const postSchema = z.object({
   body: z
     .string()
     .min(1, "Body is required")
-    .max(700, "Title must have less than 700"),
+    .max(700, "Body must have less than 700"),
   thumbnail: z.string().min(1, "Thumbnail is required"),
 });
 
